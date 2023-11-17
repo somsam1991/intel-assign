@@ -1,2 +1,3 @@
 this is master.txt
 2nd update for slave2
+3rd update
